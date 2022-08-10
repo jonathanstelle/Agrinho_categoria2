@@ -1,0 +1,74 @@
+body{
+	border-left: 60px solid #144b48;
+	border-right: 60px solid #144b48;
+	margin-left: #CCCCCC;
+	
+
+}
+
+#banner{
+	width: 50%;
+	margin-left: 5%;
+	
+}
+
+h1{
+	margin-left: 5%;
+    text-indent: unset;
+    font: small-caption;
+}
+p{
+  margin-left: 5%;
+  margin-right: 5%;
+  font: small-caption;
+  font-size: 30px;
+ }
+
+ #caixa{
+ 	width: 20%;
+ 	margin-left: 7%;
+ }
+ 
+ #cacos{
+ 	width: 20%;
+ 	margin-left: 7%;
+ }
+
+#fecho{
+	width: 20%;
+	margin-left: 7%;
+}
+
+#sinalizar{
+	width: 20%;
+	margin-left: 7%;
+}
+
+#logo{
+	width: 30%;
+	margin-left: 0%;
+	margin-top: 2%;
+}
+
+header{
+	background: #ffffff
+
+}
+
+footer{
+	text-align: center;
+	background: #144b48
+
+}
+
+#cabecario{
+	width: 200px;
+
+ 
+}
+
+footer p{
+	color: #FFFFFF;
+	font-size: 20px;
+	margin: 20px 0 0;
+}
